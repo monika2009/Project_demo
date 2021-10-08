@@ -118,17 +118,8 @@ Right aligned columns
 
 ## Images
 
-![Alt text][id]
 
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+<img src="https://octodex.github.com/images/dojocat.jpg" width=450 height=300>
 
 
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
